@@ -1,0 +1,5 @@
+#git+https://github.com/Koziev/EnglishPoetryScansion.git
+torch
+numpy
+scikit-learn
+gradio
